@@ -1,0 +1,12 @@
+/Users/gibs/Projects/gamedev/kids/matching/bin/Debug/netcoreapp3.1/matching.deps.json
+/Users/gibs/Projects/gamedev/kids/matching/bin/Debug/netcoreapp3.1/matching.runtimeconfig.json
+/Users/gibs/Projects/gamedev/kids/matching/bin/Debug/netcoreapp3.1/matching.runtimeconfig.dev.json
+/Users/gibs/Projects/gamedev/kids/matching/bin/Debug/netcoreapp3.1/matching.dll
+/Users/gibs/Projects/gamedev/kids/matching/bin/Debug/netcoreapp3.1/matching.pdb
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.csprojAssemblyReference.cache
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.AssemblyInfoInputs.cache
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.AssemblyInfo.cs
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.csproj.CoreCompileInputs.cache
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.dll
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.pdb
+/Users/gibs/Projects/gamedev/kids/matching/obj/Debug/netcoreapp3.1/matching.genruntimeconfig.cache
